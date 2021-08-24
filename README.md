@@ -1,3 +1,6 @@
+這是Dino 書籍的案例~   第2版已經大幅更換案例，但第一版完全不同
+
+Microsoft .NET:Architecting Applications for the Enterprise, Second Edition 第2版
 # Merp
 An open source, event-based Micro ERP developed by Andrea Saltarello using ASP.NET Core 3.1
 
